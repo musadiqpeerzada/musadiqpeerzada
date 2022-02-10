@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musadiqpeerzada" alt="musadiqpeerzada" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/__musadiq" target="blank"><img src="https://img.shields.io/twitter/follow/__musadiq?logo=twitter&style=for-the-badge" alt="__musadiq" /></a> </p>
+<p align="left"> <a href="https://twitter.com/musadiqpeerzada" target="blank"><img src="https://img.shields.io/twitter/follow/__musadiq?logo=twitter&style=for-the-badge" alt="musadiq-peerzada" /></a> </p>
 
 - 🔭 I’m currently working on **React and Node**
 
