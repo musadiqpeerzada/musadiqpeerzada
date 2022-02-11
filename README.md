@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://avatars.githubusercontent.com/u/79042326" alt="musadiqperzada" /> </p>
  -->
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=musadiqperzada" alt="musadiqperzada" /> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=musadiqpeerzada" alt="musadiqperzada" /> </p>
 
 <p align="left"> <a href="https://twitter.com/musadiqperzada" target="blank"><img src="https://img.shields.io/twitter/follow/musadiqperzada?logo=twitter&style=for-the-badge" alt="musadiq-peerzada" /></a> </p>
 
