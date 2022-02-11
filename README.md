@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Musadiq Peerzada</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/79042326" alt="musadiqperzada" /> </p>
+<!-- <p align="left"> <img src="https://avatars.githubusercontent.com/u/79042326" alt="musadiqperzada" /> </p>
+ -->
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=musadiqperzada" alt="musadiqperzada" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musadiqperzada" alt="musadiqperzada" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/musadiqpeerzada" target="blank"><img src="https://img.shields.io/twitter/follow/musadiqperzada?logo=twitter&style=for-the-badge" alt="musadiq-peerzada" /></a> </p>
+<p align="left"> <a href="https://twitter.com/musadiqperzada" target="blank"><img src="https://img.shields.io/twitter/follow/musadiqperzada?logo=twitter&style=for-the-badge" alt="musadiq-peerzada" /></a> </p>
 
 - 🔭 I’m currently working on **React and Node**
 
