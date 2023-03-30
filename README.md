@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Musadiq Peerzada</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A Curious Developer from The Mountains of Kashmir</h3>
 
 <!-- <p align="left"> <img src="https://avatars.githubusercontent.com/u/79042326" alt="musadiqperzada" /> </p>
  -->
@@ -9,13 +9,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=musadiqpeerzada&label=Profile%20views&color=0e75b6&style=flat" alt="musadiqpeerzaada" /> </p>
 
 
-- 🔭 I’m currently working on **React and Node**
+- 🔭 I’m currently working on **Node, Typescript, Docker**
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to contribute to **React and Node**
+- 👯 I’m looking to contribute to **Javascript** projects.
 
-- 💬 Ask me about **React, Node, Python, C, Linux**
+- 💬 Ask me about **Node, Python, C, Linux**
 
 - 📫 How to reach me **musadiqpeerzada@gmail.com**
 
