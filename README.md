@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently writing blogs<br>👯 I’m looking to work on p2p communication, human language to db queries<br>🌱 I’m currently learning low level design<br>💬 Ask me about typescript, python, nestjs, design<br>📫 How to reach me me@musadiqpeerzada.com<br>👨‍💻 All of my projects are available at https://www.musadiqpeerzada.com<br>📝 I regularly write articles on https://www.musadiqpeerzada.com/blog<br>⚡ Fun fact A code wizard, nature's my bizarre lizard!a
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/musadiqpeerzada) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/musadiqpeerzada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/musadiqpeerzada) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/musadiqpeerzada) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/musadiqperzada) 
 
